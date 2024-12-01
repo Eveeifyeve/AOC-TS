@@ -1,15 +1,7 @@
-# advent-of-code
+# Advent of Code Repo:
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run src/index.ts
-```
-
-This project was created using `bun init` in bun v1.0.13. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+| Language   | Years |
+|------------|-------|
+| Rust       | 2024  |
+| Nix        | 2024  |
+| TypeScript | 2023  |

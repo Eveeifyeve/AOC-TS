@@ -8,7 +8,6 @@
     pkgs.nix-direnv
 
     # Rust
-    pkgs.rust
     pkgs.rustc
     pkgs.rust-analyzer
     pkgs.cargo
@@ -17,7 +16,6 @@
   ];
   idx = {
     extensions = [
-      "mkhl.direnv"
       "rust-lang.rust-analyzer"
       "lyonsyonii.rust-syntax"
       "tamasfe.even-better-toml"
